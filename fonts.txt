@@ -1,0 +1,27 @@
+h2, h3, h4, h5, h6 {
+    font-size: 36px;
+    color: #fff; /* White font color */
+    margin-bottom: 40px;
+    text-shadow: 0 0 10px rgba(255, 213, 0, 1); /* Yellow glow effect */
+	font-weight: 200;
+	
+	
+	h1 {
+	font-size: 45px;
+	
+	font-weight: 200;
+}
+
+
+
+font-family: Protest Guerrilla;
+	font-weight: 200;
+  
+	
+	
+	Case Study Font (sub-heading)
+	0d9edf
+	
+	
+	font-family: "Oswald", sans-serif;
+	
